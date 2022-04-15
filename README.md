@@ -1,4 +1,4 @@
-# LearnOpenGL
+# Learning Open GL
 
 I want to learn Open GL and C++ so I will be uploading whatever I end up making.
 
