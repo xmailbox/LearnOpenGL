@@ -1,5 +1,7 @@
-# Learning Open GL
+# Learning OpenGL
 
-I want to learn Open GL and C++ so I will be uploading whatever I end up making.
+I want to learn OpenGL and C++ so I will be uploading whatever I end up making.
 
-Im not sure what this is going to be yet, Ill update this as I go though
+Part 1. Wireframe Renderer
+
+	Reason: In my grade 11 CS class we were learning Java(which I already knew). During my spare time in that class I would code my own things such as recreating Rogue(1980) and a 3D wireframe renderer. I want to try to recreate the same wireframe renderer but in C++ and OpenGL
