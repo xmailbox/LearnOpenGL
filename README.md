@@ -6,3 +6,6 @@ I want to learn OpenGL and C++ so I will be uploading whatever I end up making.
 
 ### Reason:
 In my grade 11 CS class we were learning Java(which I already knew). During my spare time in that class I would code my own things such as recreating Rogue(1980) and a 3D wireframe renderer. I want to try to recreate the same wireframe renderer but in C++ and OpenGL
+
+#### Day 1:
+-Installed GLFW and GLAD to the project and used it to create a window based on the GLFW website
