@@ -9,3 +9,7 @@ In my grade 11 CS class we were learning Java(which I already knew). During my s
 
 #### Day 1:
 -Installed GLFW and GLAD to the project and used it to create a window based on the GLFW website
+
+## Update
+
+I found an Open GL tutorial that teaches without using OpenGL, instead you build the tools yourself. the Tutorial is by [ssloy](https://github.com/ssloy) and you can find it [here](https://github.com/ssloy/tinyrenderer/wiki)
